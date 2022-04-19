@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#chatSection {
+  display: none;
+  height: 80vh;
+}
+
+.green {
+  color: greenyellow
+}
+
+#chatBox {
+  position: relative;
+  border: 1px solid black;
+  margin: 0px;
+  padding: 0px
+}
+
+#chatBar {
+  position: absolute;
+  bottom: 0px;
+}
